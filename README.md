@@ -1,6 +1,6 @@
 ### Background 
 
-Bayesian hierarchical modeling is known to be a powerful technique for generating more accurate estimates at various levels of geographical and administrative subdivisions due to partial pooling. This project focuses on utilizing Bayesian hierarchical modeling to account for county-level differences to analyze the severity of asthma in regards to PM2.5 and ozone, more generally referred to as common "air pollutants."
+Bayesian hierarchical modeling is a robust technique that leverages partial pooling to generate more accurate estimates across various levels of geographical and administrative subdivisions. This project focuses on utilizing Bayesian hierarchical modeling to account for county-level differences to analyze the severity of asthma in regards to PM2.5 and ozone, more generally referred to as common "air pollutants."
 
 <p></p> 
 
@@ -60,7 +60,7 @@ Model performance was also assessed using the Arviz library to plot the posterio
   <img src="./figures/random_parameters_convergence.png" width="50%" />
 </p>
 <p align="center">
-  <strong>Figure 4.</strong> istribution of Random Parameters in the Bayesian model.
+  <strong>Figure 4.</strong> Distribution of Random Parameters in the Bayesian model.
 </p>
 
 
