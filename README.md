@@ -42,7 +42,7 @@ The Bayesian hierarchical model described was developed using PyMC, a Python lib
 
 ---
 ### Results
-After implementing the model and sampling from the posterior, it is shown that the overall effect of average PM2.5 and ozone concentrations alone did not have a large effect on county ED visits. This result is shown by Figure 3 as the coefficients of the covariates in the linear predictor, $\beta_1$ and $\beta_2$, were 0.054 and -0.006, respectively.
+After implementing the model and sampling from the posterior, it is shown that the overall effect of average PM2.5 and ozone concentrations alone did not have a large effect on county ED visits. This result is shown by Figure 3 as the coefficients of the covariates in the linear predictor, $\beta_1$ and $\beta_2$, were 0.112 and -0.033, respectively.
 
 
 <p align="center">
